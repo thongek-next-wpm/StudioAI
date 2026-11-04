@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI Creative Studio & SQLite Chatbot",
+  "description": "Multi-turn AI assistant with Gemini models (4-Argon, 3.8-Flash, 3.1-Flash-Lite), 1K/2K/4K image generation, and persistent SQLite database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
